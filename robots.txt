@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeshiekah.yutakahoulette.com/sitemap.xml
